@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sebastian",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "name": "ann",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "name": "dudekula",
+      "email": "dudekula@gmail.com",
+      "id": 4
+    }
+  ]
+}
